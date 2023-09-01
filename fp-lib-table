@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Greenhouse-Footprints")(type "KiCad")(uri "${KIPRJMOD}/Greenhouse-Footprints.pretty")(options "")(descr ""))
+)

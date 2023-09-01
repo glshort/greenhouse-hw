@@ -1,0 +1,19 @@
+(footprint "mounting hole" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 06762725-0a08-4f19-bc21-c6793e1b1b83)
+  )
+  (fp_text value "mounting hole" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 389fbf21-f227-4b0f-aa32-423a8a11062a)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp dc457c66-738e-4345-994a-68e81b31071b)
+  )
+  (fp_circle (center 0 0) (end 3.1 0)
+    (stroke (width 0.127) (type solid)) (fill none) (layer "F.Fab") (tstamp 3db9f7bc-07e5-48aa-86d6-dc6c3c52cc9a))
+  (pad "" np_thru_hole circle (at 0 0) (size 3 3) (drill 3) (layers "F&B.Cu" "*.Mask")
+    (clearance 0.5) (tstamp dfacae8a-fed5-4303-ab17-facf3beb929f))
+)
