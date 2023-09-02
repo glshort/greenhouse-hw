@@ -29,9 +29,9 @@
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp bd8f55af-90ff-4f56-bddb-131e3254c6cc))
   (fp_line (start 1.7 0.9) (end 1.7 -0.9)
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 0e870c62-aba9-4bee-9731-431d204b2889))
-  (pad "1" smd rect (at -1.46 0) (size 1.2 1.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 95410858-e28f-4002-8fee-13a9a666fc40))
-  (pad "2" smd rect (at 1.46 0) (size 1.2 1.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f90ce2e7-3866-415d-8de7-dc20e9f49c19))
-  (model "/Users/glshort/Downloads/CL31B104KBCNNNC/CL31B104KBCNNNC.step"
+  (pad "1" smd roundrect (at -1.46 0) (size 1.2 1.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.3333333333) (tstamp 95410858-e28f-4002-8fee-13a9a666fc40))
+  (pad "2" smd roundrect (at 1.46 0) (size 1.2 1.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.3333333333) (tstamp f90ce2e7-3866-415d-8de7-dc20e9f49c19))
+  (model "${KIPRJMOD}/Models/CL31B104KBCNNNC.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

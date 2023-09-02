@@ -5,7 +5,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp de1b9a20-09da-478f-99b3-95767189a117)
   )
-  (fp_text value "TE_282834-3" (at 2.695 5.135) (layer "F.Fab")
+  (fp_text value "TE_282834-3" (at 2.695 5.135) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 2c1c661d-0fe0-479e-98e3-3117c435b5f0)
   )

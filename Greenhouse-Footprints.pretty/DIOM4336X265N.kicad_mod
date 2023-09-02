@@ -41,6 +41,11 @@
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp d5685a4a-3aee-49b4-b540-34b90a715beb))
   (fp_circle (center -4 0) (end -3.9 0)
     (stroke (width 0.2) (type solid)) (fill none) (layer "F.Fab") (tstamp 40964d3a-1dbf-42a5-8b85-ad126cf59a2f))
-  (pad "1" smd rect (at 2.165 0) (size 2.28 2.12) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 15a78184-35c0-4f75-ae38-ed7a3d427592))
-  (pad "2" smd rect (at -2.165 0) (size 2.28 2.12) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 86029c58-b5af-4034-9f91-ac93d5e07ad4))
+  (pad "1" smd roundrect (at 2.165 0) (size 2.28 2.12) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1886792453) (tstamp 15a78184-35c0-4f75-ae38-ed7a3d427592))
+  (pad "2" smd roundrect (at -2.165 0) (size 2.28 2.12) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1886792453) (tstamp 86029c58-b5af-4034-9f91-ac93d5e07ad4))
+  (model "${KIPRJMOD}/Models/SMBJ7.0A.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

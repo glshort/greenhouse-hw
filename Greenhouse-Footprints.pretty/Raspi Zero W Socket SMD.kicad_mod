@@ -203,9 +203,9 @@
     (thermal_bridge_angle 45) (tstamp 6056b7d1-c240-4025-a7db-19f7eb9372b6))
   (pad "40" smd roundrect (at 24.13 -3.594) (size 1 4.15) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 798bcb0d-5c64-45c2-be4a-9a31310c04cc))
-  (model "/Users/glshort/Downloads/SBH11-_ _ _C-D20-SM-_ _.STEP"
+  (model "${KIPRJMOD}/Models/SBH11-_ _ _C-D20-SM-_ _.STEP"
     (offset (xyz 33.2 4.5 -44.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 180))
+    (rotate (xyz -90 0 -180))
   )
 )
