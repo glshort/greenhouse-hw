@@ -21,4 +21,9 @@
   (pad "2" thru_hole oval (at 0 0 180) (size 3 5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp a495e8cc-af91-4464-928c-bd373fd4a8d7))
   (pad "3" thru_hole oval (at 5 -8.1 180) (size 3 5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp e2a41bca-76cc-4f53-b1f9-f7b47d568807))
   (pad "3" thru_hole oval (at 5 0 180) (size 3 5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 80328444-da67-4751-a1c7-a7c00b9c280d))
+  (model "${KIPRJMOD}/Models/2604-1103.stp"
+    (offset (xyz -7.3 8.1 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -90))
+  )
 )

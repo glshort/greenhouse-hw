@@ -12,6 +12,8 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp dc457c66-738e-4345-994a-68e81b31071b)
   )
+  (fp_circle (center 0 0) (end 1.5 0)
+    (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d3dc0463-09dd-4173-8105-af4d20266752))
   (fp_circle (center 0 0) (end 3.1 0)
     (stroke (width 0.127) (type solid)) (fill none) (layer "F.Fab") (tstamp 3db9f7bc-07e5-48aa-86d6-dc6c3c52cc9a))
   (pad "" np_thru_hole circle (at 0 0) (size 3 3) (drill 3) (layers "F&B.Cu" "*.Mask")
